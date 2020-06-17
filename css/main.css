@@ -332,7 +332,7 @@ main .content-wrapper {
 
 button {
   top: 80%;
-  left: 60%;
+  left: 65%;
   width:6%;
   position:-webkit-sticky; /*keeps button in one stable place*/
 }
